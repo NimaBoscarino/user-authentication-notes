@@ -2,7 +2,7 @@
 
 NEAT LINK: https://stackshare.io/stacks
 
-REPO: 
+REPO: https://github.com/NimaBoscarino/user-authentication-notes
 
 Although you did a bit of cookie learning and implementation recently, a) it was quite basic, and b) it is still deserving of a conversation. That's what this class is all about. We'll hopefully take things a bit further than the basic implementation as well!
 
